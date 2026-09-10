@@ -1,5 +1,6 @@
 {
-  "status": "close",
-  "msg": "أهلاً بك في نسخة زين لايف المعدلة!",
-  "update_url": "https://t.me"
+  "status": "off",
+  "message": "عذراً، التطبيق مغلق حالياً للصيانة",
+  "update_url": "https://example.com"
 }
+
